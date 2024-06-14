@@ -1,5 +1,5 @@
 ## Hola! Soy Raul Paramio 👋
-
+![Banner Perfil](https://github.com/RaulParamio/RaulParamio/blob/main/BannerGitHubRaul.png)
 <!--
 **RaulParamio/RaulParamio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
