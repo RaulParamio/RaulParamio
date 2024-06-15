@@ -8,7 +8,7 @@
 
 ## Proyectos Destacados
 
-- [Proyecto Hibernate](https://github.com/RaulParamio/ProyectoHibernate) - Proyecto de Java, Maven e Hibernate
+- [Proyecto Hibernate](https://github.com/RaulParamio/Hibernate) - Proyecto de Java, Maven e Hibernate
 
 ## Estadísticas de GitHub
 
