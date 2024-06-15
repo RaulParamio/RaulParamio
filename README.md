@@ -1,4 +1,4 @@
-## Hola! Soy Raul Paramio 👋
+name## Hola! Soy Raul Paramio 👋
 ![Banner Perfil](https://github.com/RaulParamio/RaulParamio/blob/main/BannerGitHubRaul.png)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/raulparamiosanzo/)](https://www.linkedin.com/in/raulparamiosanzo/)
@@ -8,8 +8,8 @@
 
 ## Estadísticas de GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?RaulParamio&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?RaulParamio&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/username=RaulParamio&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RaulParamio&show_icons=true)
 <!--
 **RaulParamio/RaulParamio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
