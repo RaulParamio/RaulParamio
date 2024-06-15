@@ -5,6 +5,11 @@
 ![GitHub followers](https://img.shields.io/github/followers/RaulParamio)
 
 ## Sobre mí
+
+## Estadísticas de GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?RaulParamio=RaulParamio&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?RaulParamio=RaulParamio&show_icons=true)
 <!--
 **RaulParamio/RaulParamio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
