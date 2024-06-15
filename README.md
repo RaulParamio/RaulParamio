@@ -7,7 +7,7 @@
 ## Sobre mí
 
 ## Proyectos Destacados
-
+<img src="https://github.com/RaulParamio/Hibernate/blob/master/Images/Hibernate_image.jpg"/>
 - [Proyecto Hibernate](https://github.com/RaulParamio/Hibernate) - Proyecto de Java, Maven e Hibernate
 
 ## Estadísticas de GitHub
