@@ -6,6 +6,10 @@
 
 ## Sobre mí
 
+## Proyectos Destacados
+
+- [Proyecto Hibernate](https://github.com/RaulParamio/ProyectoHibernate) - Proyecto de Java, Maven e Hibernate
+
 ## Estadísticas de GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulParamio&layout=compact)
