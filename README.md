@@ -13,9 +13,8 @@ Ahora mismo me encuentro centrado en la realizacion de proyectos y estudio, para
 - Proyecto de Java, Maven e Hibernate
 
 ## Tecnologías Utilizadas
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
-![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="10"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg" alt="JavaScript" width="10"/>
 
 ## Estadísticas de GitHub
 
