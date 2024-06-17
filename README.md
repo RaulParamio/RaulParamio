@@ -13,9 +13,9 @@ Ahora mismo me encuentro centrado en la realizacion de proyectos y estudio, para
 - Proyecto de Java, Maven e Hibernate
 
 ## Tecnologías Utilizadas
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="10"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg" alt="JavaScript" width="10"/>
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  width="20"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="20"/>
 ## Estadísticas de GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulParamio&layout=compact)
