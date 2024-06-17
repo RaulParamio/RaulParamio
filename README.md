@@ -5,10 +5,17 @@
 ![GitHub followers](https://img.shields.io/github/followers/RaulParamio)
 
 ## Sobre mí
+Estudié en el IES Virgen de la Paloma Desarrollo de Aplicaciones Multiplataforma aunque mis practicas fueron enfocadas mas hacia desarrollador web Full Stack.
+Ahora mismo me encuentro centrado en la realizacion de proyectos y estudio, para especializarme en las tecnologias que he realizado para adquirir mas conocimientos y mejorar como desarrollador.
 
 ## Proyectos Destacados
-<a href="https://github.com/RaulParamio/Hibernate"><img src="https://github.com/RaulParamio/Hibernate/blob/master/Images/Hibernate_image.jpg" style="height: 60%; width:60%;" /></a>
+<a href="https://github.com/RaulParamio/Hibernate"><img src="https://github.com/RaulParamio/Hibernate/blob/master/Images/Hibernate_image.jpg" style="height: 50%; width:50%;" /></a>
 - Proyecto de Java, Maven e Hibernate
+
+## Tecnologías Utilizadas
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
 
 ## Estadísticas de GitHub
 
