@@ -12,7 +12,7 @@ Ahora mismo me encuentro centrado en la realizacion de proyectos y estudio, para
 <a href="https://github.com/RaulParamio/Hibernate"><img src="https://github.com/RaulParamio/Hibernate/blob/master/Images/Hibernate_image.jpg" style="height: 50%; width:50%;" /></a>
 - Proyecto de Java, Maven e Hibernate
 
-<a href="https://github.com/RaulParamio/JDBC"><img src="https://github.com/RaulParamio/JDBC/blob/master/Images/jdbc_image.png" style="height: 40%; width:40%;" /></a>
+<a href="https://github.com/RaulParamio/JDBC"><img src="https://github.com/RaulParamio/JDBC/blob/master/Images/jdbc_image.JPG" style="height: 50%; width:50%;" /></a>
 - Proyecto de Java, Maven y Java Database Connectivity
 
 
