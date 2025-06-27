@@ -7,8 +7,7 @@
 ## Sobre mí
 Estudié en el IES Virgen de la Paloma Desarrollo de Aplicaciones Multiplataforma realizando practicas como desarrollador web Full Stack trabajando principalmente con Codeigniter/Laravel y Bases de datos MySQL.<br><br>
 Ahora mismo me encuentro centrado en mejorar mi ingles, estudio y realizacion de proyectos para especializarme, principalmente Java dado que es mi principal lenguaje. 
-Destacando interes en el stack de Desarrollador Java Backend SpringBoot Microservicios APIREST y Docker.
-Aunque tambien me interesan otras tecnologias relacionadas con Java o Salesforce.
+Destacando interes en el stack de Desarrollador Java Backend SpringBoot API-REST y Docker.
 
 ## Proyectos Destacados
 <a href="https://github.com/RaulParamio/Hibernate"><img src="https://github.com/RaulParamio/Hibernate/blob/master/Images/Hibernate_image.jpg" style="height: 50%; width:50%;" /></a>
@@ -22,20 +21,16 @@ Aunque tambien me interesan otras tecnologias relacionadas con Java o Salesforce
 ### Principales:
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="50"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" width="50"/>
-</div>
-
-  ### Usadas:
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" width="50"/>
 </div>
 
   ### Durante las practicas:
@@ -60,6 +55,7 @@ Aunque tambien me interesan otras tecnologias relacionadas con Java o Salesforce
 
 - Correo: [raulparamio1@gmail.com](mailto:raulparamio1@gmail.com)
 - LinkedIn: [linkedin.com/in/raulparamiosanzo](https://www.linkedin.com/in/raulparamiosanzo/)
+- Portfolio: https://raulparamio.netlify.app/
 
 <!--
 **RaulParamio/RaulParamio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
