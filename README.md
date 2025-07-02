@@ -22,7 +22,7 @@ Tengo formación en tecnologías como Spring Boot, API REST y Docker, aunque est
 ### Principales:
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50"/>
+  <img src="https://cdn.simpleicons.org/springboot" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="50"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50"/>
