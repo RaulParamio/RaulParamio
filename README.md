@@ -5,9 +5,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/RaulParamio)
 
 ## Sobre mí
-Estudié en el IES Virgen de la Paloma Desarrollo de Aplicaciones Multiplataforma realizando practicas como desarrollador web Full Stack trabajando principalmente con Codeigniter/Laravel y Bases de datos MySQL.<br><br>
-Ahora mismo me encuentro centrado en mejorar mi ingles, estudio y realizacion de proyectos para especializarme, principalmente Java dado que es mi principal lenguaje. 
-Destacando interes en el stack de Desarrollador Java Backend SpringBoot API-REST y Docker.
+Estudié en el IES Virgen de la Paloma Desarrollo de Aplicaciones Multiplataforma realizando practicas como desarrollador web Full Stack, trabajando sobre todo con el lado servidor y bases de datos.<br><br>
+Actualmente continúo desarrollando proyectos personales y mejorando mi nivel de inglés, con el objetivo de seguir especializándome como desarrollador backend Java.<br><br>
+Tengo formación en tecnologías como Spring Boot, API REST y Docker, aunque estoy abierto y motivado para aprender nuevas herramientas y tecnologías según las necesidades del proyecto o la empresa.
 
 ## Proyectos Destacados
 <a href="https://github.com/RaulParamio/Hibernate"><img src="https://github.com/RaulParamio/Hibernate/blob/master/Images/Hibernate_image.jpg" style="height: 50%; width:50%;" /></a>
