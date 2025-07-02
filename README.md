@@ -10,11 +10,12 @@ Actualmente continúo desarrollando proyectos personales y mejorando mi nivel de
 Tengo formación en tecnologías como Spring Boot, API REST y Docker, aunque estoy abierto y motivado para aprender nuevas herramientas y tecnologías según las necesidades del proyecto o la empresa.
 
 ## Proyectos Destacados
+<a href="https://github.com/RaulParamio/SpringClientesAPI"><img src="https://github.com/RaulParamio/SpringClientesAPI/blob/main/images/springapi2.png" style="height: 50%; width:50%;" /></a>
+- API-REST desarollada con Java, SpringBoot, Hibernate, MySQL, JUNIT 5, Mockito, Swagger/OpenAPI, Maven y Docker.
+
 <a href="https://github.com/RaulParamio/Hibernate"><img src="https://github.com/RaulParamio/Hibernate/blob/master/Images/Hibernate_image.jpg" style="height: 50%; width:50%;" /></a>
 - Proyecto de Java, Maven e Hibernate
 
-<a href="https://github.com/RaulParamio/JDBC"><img src="https://github.com/RaulParamio/JDBC/blob/master/Images/jdbc_image.JPG" style="height: 50%; width:50%;" /></a>
-- Proyecto de Java, Maven y Java Database Connectivity
 
 
 ## Tecnologías Utilizadas
